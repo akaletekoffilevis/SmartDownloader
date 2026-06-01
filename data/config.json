@@ -1,0 +1,11 @@
+{
+  "download_dir": "/home/akaletekoffilevis/Downloads/SmartDownloader",
+  "max_concurrent": 2,
+  "speed_limit": 0,
+  "default_quality": "best",
+  "default_mode": "best-speed",
+  "theme": "dark",
+  "language": "en",
+  "auto_split_gb": 2,
+  "auto_download": false
+}
